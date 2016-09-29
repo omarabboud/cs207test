@@ -1,3 +1,4 @@
+
 from pytest import raises
 from amath import myaverage, mymedian
 
